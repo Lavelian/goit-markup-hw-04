@@ -461,10 +461,11 @@ img {
   color: var(--acent-color-text);
 }
 .footer-addres-box {
-  margin-right: 156px;
+  margin-right: 70px;
 }
 .container-footer {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-icons-list {
@@ -496,7 +497,7 @@ img {
   fill: var(--color-hero);
 }
 
-.footer-icon-box > h3 {
+.footer-icon-title {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14px;
@@ -504,6 +505,7 @@ img {
   text-transform: uppercase;
   margin-bottom: 20px;
 }
+
 /* РџРѕСЂС‚С„РѕР»РёРѕ */
 
 .button {
